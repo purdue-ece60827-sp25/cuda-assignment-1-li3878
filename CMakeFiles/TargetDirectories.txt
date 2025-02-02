@@ -1,0 +1,7 @@
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/CMakeFiles/lab1.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/CMakeFiles/edit_cache.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/CMakeFiles/rebuild_cache.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/src/CMakeFiles/cudaLib.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/src/CMakeFiles/cpuLib.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/src/CMakeFiles/edit_cache.dir
+/home/li3878/Desktop/ECE60827/cuda-assignment-1-li3878/src/CMakeFiles/rebuild_cache.dir
